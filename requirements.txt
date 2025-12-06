@@ -1,0 +1,12 @@
+jupyter
+tabula-py
+pandas
+requests
+plotly
+cartopy
+folium
+ipyleaflet
+jpype1
+geopandas
+branca
+shapely
