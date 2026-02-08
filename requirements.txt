@@ -10,3 +10,4 @@ jpype1
 geopandas
 branca
 shapely
+pillow
