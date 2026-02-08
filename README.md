@@ -14,7 +14,7 @@ To view some simple displays of data in tabular form, check out the *.ipynb file
  - [LandownerAntelopeTags.ipynb](https://github.com/glitt13/public_trust_wildlife/blob/main/LandownerAntelopeTags.ipynb)
 
 As of February, 2026 data are hosted on tiiny.site. If the links don't work, get in touch with Guy to view the files.
- - Elk: 
+ - Elk: https://wybha-elklandownerallocation2025.tiiny.site
  - Deer: https://wybha-deerlandownertag25.tiiny.site/
  - Antelope:  https://wyantelope-landownerallocation2025.tiiny.site
 
