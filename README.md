@@ -1,4 +1,4 @@
-Wyoming landowner tags assessment
+## Wyoming landowner tags assessment
 -----
 
 Author: Guy Litt
@@ -6,12 +6,27 @@ Wyoming chapter of Backcountry Hunters & Anglers
 
 This is a facts-based assessment of Wyoming's current landowner tag system based on tag allocation data published by the Wyoming Game and Fish Department.
 
-Questions asked
-How many tags go to landowners currently?
-How does the landowner tag system affect resident draw odds?
-How might resident draw odds change if policies on landowner tag allocations also change?
-How many cow tags do landowners apply for to manage populations?
+It retrieves data from the WY G&F 2025 draw odds page, considering the total quota of type 1 tags and how many went to landowners.
 
+To view some simple displays of data in tabular form, check out the *.ipynb files, e.g. 
+ - [LandownerElkTags.ipynb](https://github.com/glitt13/public_trust_wildlife/blob/main/LandownerElkTags.ipynb)
+ - [LandownerDeerTags.ipynb](https://github.com/glitt13/public_trust_wildlife/blob/main/LandownerDeerTags.ipynb)
+ - [LandownerAntelopeTags.ipynb](https://github.com/glitt13/public_trust_wildlife/blob/main/LandownerAntelopeTags.ipynb)
+
+As of February, 2026 data are hosted on tiiny.site. If the links don't work, get in touch with Guy to view the files.
+ - Elk: 
+ - Deer: https://wybha-deerlandownertag25.tiiny.site/
+ - Antelope:  https://wyantelope-landownerallocation2025.tiiny.site
+
+
+Consider how these total landowner tag allocations will change if 
+1) Tags become transferable, meaning landowners could sell them for thousands of dollars (Senate File 51)
+2) Landowners are allotted _no less than_ 40% of tags (Senate File 15)
+
+Conclusion: 
+The wealthy could buy the tags, and fewer will be available for the public.
+
+## Installation
 ```
 cd /path/to/dir
 uv venv ../.venv --python=3.13
