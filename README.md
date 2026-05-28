@@ -8,7 +8,7 @@ This is a facts-based assessment of Wyoming's current landowner tag system based
 
 It retrieves data from the WY G&F 2025 draw odds page, considering the total quota of type 1 tags and how many went to landowners.
 
-To view some simple displays of data in tabular form, check out the *.ipynb files, e.g. 
+To view some simple distributions of tag allocations to landowners, check out the *.ipynb files, e.g. 
  - [LandownerElkTags.ipynb](https://github.com/glitt13/public_trust_wildlife/blob/main/LandownerElkTags.ipynb)
  - [LandownerDeerTags.ipynb](https://github.com/glitt13/public_trust_wildlife/blob/main/LandownerDeerTags.ipynb)
  - [LandownerAntelopeTags.ipynb](https://github.com/glitt13/public_trust_wildlife/blob/main/LandownerAntelopeTags.ipynb)
