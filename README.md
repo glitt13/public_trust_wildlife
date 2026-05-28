@@ -24,7 +24,7 @@ Consider how these total landowner tag allocations will change if
 2) Landowners are allotted _no less than_ 40% of tags (Senate File 15)
 
 Conclusion: 
-The wealthy could buy the tags, and fewer will be available for the public.
+If 40% of tags were automatically allocated to landowners, the public's limited draw opportunity would decline considerably.
 
 ## Installation
 ```
